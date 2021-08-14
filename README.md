@@ -56,6 +56,16 @@
 
 > git log
 
+## Voltar no tempo:
+
+> git checkout ...
+
+## Ainda tem os de controle de ramificações:
+
+> git branch ...
+
+> git merge
+
 <!---
 - 👋 Hi, I’m @leojnguimaraes
 - 👀 I’m interested in ...
