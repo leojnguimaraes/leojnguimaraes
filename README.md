@@ -56,13 +56,15 @@
 
 > git log
 
-## Voltar no tempo:
+## Voltar do tempo:
 
-> git checkout ...
+> git checkout (código do commit)
 
 ## Ainda tem os de controle de ramificações:
 
-> git branch ...
+> git branch (opcionalmente com nome do branch a ser criado)
+
+> git checkout (nome do branch)
 
 > git merge
 
