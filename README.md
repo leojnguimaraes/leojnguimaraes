@@ -8,8 +8,7 @@
 
 ## Para colocar um projeto novo no repositório:
 
-> cd <vai para diretorio do projeto>
-
+> cd (vai para diretorio do projeto)   \n
 > git init
 
 > git status
@@ -33,9 +32,9 @@ git push
 
 ## Para atualizar arquivos deletados:
 
-rm <lista de arquivos>
+rm (lista de arquivos)
 git status
-git rm <lista de arquivos>
+git rm (lista de arquivos)
 git status
 git commit -m "deletei arquivos *.obj"
 git push 
