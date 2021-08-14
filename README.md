@@ -1,6 +1,6 @@
 # Leonardo José do Nascimento Guimarães
 
-[Dê uma olhada na minha homepage](http://www.lmcg.ufpe.br/~leo/)
+[Oi :) Dê uma olhada na minha homepage](http://www.lmcg.ufpe.br/~leo/)
 
 - 👋 Hi, I’m @leojnguimaraes
 - 👀 I’m interested in ...
