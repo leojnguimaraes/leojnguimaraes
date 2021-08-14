@@ -8,13 +8,13 @@
 
 ## Para colocar um projeto novo no repositório:
 
-cd <vai para diretorio do projeto>
-git init
-git status
-git add .
-git status
-git commit -m "Meu primeiro commit"
-git push -f origin master (na primeira vez de dar o push, indicar o branch, no caso 'master')
+> cd <vai para diretorio do projeto>
+> git init
+> git status
+> git add .
+> git status
+> git commit -m "Meu primeiro commit"
+> git push -f origin master (na primeira vez de dar o push, indicar o branch, no caso 'master')
 
 ## Para atualizar um arquivo modificado:
 
