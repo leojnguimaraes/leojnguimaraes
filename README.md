@@ -24,37 +24,37 @@
 
 ## Para atualizar um arquivo modificado:
 
-vi README.md ==> aqui eu modifico este arquivo
+> vi README.md ==> aqui eu modifico este arquivo
 
-git status
+> git status
 
-git add README.md (ou, para adicionar todos os arquivos modificados: git add .)
+> git add README.md (ou, para adicionar todos os arquivos modificados: git add .)
 
-git status
+> git status
 
-git commit -m "modifiquei novamente o README.md"
+> git commit -m "modifiquei novamente o README.md"
 
-git push 
+> git push 
 
 ## Para atualizar arquivos deletados:
 
-rm (lista de arquivos)
+> rm (lista de arquivos)
 
-git status
+> git status
 
-git rm (lista de arquivos)
+> git rm (lista de arquivos)
 
-git status
+> git status
 
-git commit -m "deletei arquivos *.obj"
+> git commit -m "deletei arquivos *.obj"
 
-git push 
+> git push 
 
 ## Outros comandos legais de para monitorar alterações:
 
-git show
+> git show
 
-git log
+> git log
 
 <!---
 - 👋 Hi, I’m @leojnguimaraes
