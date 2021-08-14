@@ -8,7 +8,7 @@
 
 ## Para colocar um projeto novo no repositório:
 
-> cd (vai para diretorio do projeto)   \n
+> cd (vai para diretorio do projeto)   <\br>
 > git init
 
 > git status
