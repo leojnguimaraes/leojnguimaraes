@@ -7,13 +7,15 @@
 ## Sobre mim:
 
 Sou professor do Departamento de Engenharia Civil da UFPE.
-Trabalho com aplicações do Método dos Elementos Finitos a problemas de Engenharia.
+
+Trabalho na aplicação do Método dos Elementos Finitos a problemas de Engenharia.
 
 ## Minhas linguagens de programação:
 
-- Frotran
+- Fortran
 - C
 - Matlab
+- Bash Script
 
 ## Desenvolvo meus projetos nos sistemas operacionais: 
 
