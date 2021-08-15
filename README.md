@@ -20,7 +20,7 @@
 
 > git commit -m "Meu primeiro commit"
 
-> git push -f origin master (na primeira vez de dar o push, indicar o branch, no caso 'master')
+> git push -f origin main (na primeira vez de dar o push, indicar o branch, no caso 'main')
 
 ## Para atualizar um arquivo modificado:
 
@@ -67,6 +67,12 @@
 > git checkout (nome do branch)
 
 > git merge
+
+## Clonar um repositório:
+
+> git clone (URL do repositório que vai ser clonado para minha máquina local)
+
+> git pull (atualiza reposotório local a partir do repositório remoto)
 
 <!---
 - 👋 Hi, I’m @leojnguimaraes
