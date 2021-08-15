@@ -4,6 +4,8 @@
 
 [Homepage no PAGES do GitHub - Método 1 (repositorio qualquer com branch gh-pages)](https://leojnguimaraes.github.io/leo/)
 
+[Homepage no PAGES do GitHub - Método 1 (repositorio qualquer com branch gh-pages usando estilo do GitHub)](https://leojnguimaraes.github.io/leo3/)
+
 [Homepage no PAGES do GitHub - Método 2 (repositorio qualquer no branch master)](https://leojnguimaraes.github.io/leo2/)
 
 [Homepage no PAGES do GitHub - Método 3 (repositorio especial leojnguimaraes.github.io)](https://leojnguimaraes.github.io/)
