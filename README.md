@@ -8,6 +8,8 @@
 
 [Homepage no PAGES do GitHub - Método 3 (repositorio especial leojnguimaraes.github.io)](https://leojnguimaraes.github.io/)
 
+[Meu README.md pessoal no GitHub (repositorio especial leojnguimaraes)](https://github.com/leojnguimaraes/)
+
 ---
 
 # Git tips
