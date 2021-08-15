@@ -2,7 +2,9 @@
 
 [Homepage no servidor da universidade](http://www.lmcg.ufpe.br/~leo/)
 
-[Homepage hospedada no GitHub](https://leojnguimaraes.github.io/leo/)
+[Homepage no PAGES do GitHub - Método 1](https://leojnguimaraes.github.io/leo/)
+
+[Homepage no PAGES do GitHub - Método 2](https://leojnguimaraes.github.io/leo2/)
 
 ---
 
