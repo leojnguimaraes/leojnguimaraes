@@ -1,6 +1,8 @@
 # Leonardo José do Nascimento Guimarães
 
-[Oi :) Dê uma olhada na minha homepage](http://www.lmcg.ufpe.br/~leo/)
+[Homepage no servidor da universidade](http://www.lmcg.ufpe.br/~leo/)
+
+[Homepage hospedada no GitHub](https://leojnguimaraes.github.io/leo/)
 
 ---
 
