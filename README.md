@@ -8,7 +8,7 @@
 
 Sou professor do Departamento de Engenharia Civil da UFPE.
 
-Trabalho na aplicação do Método dos Elementos Finitos a problemas de Engenharia.
+Trabalho na aplicação do Método dos Elementos Finitos a problemas das Engenharias de Petróleo e Geotécnica.
 
 ## Minhas linguagens de programação:
 
