@@ -19,6 +19,15 @@ Trabalho na aplicação do Método dos Elementos Finitos a problemas das Engenha
 - Linux
 - Windows
 
+## Por que (Modern) Fortran?
+
+<img src="https://github.com/leojnguimaraes/leojnguimaraes.github.io/blob/master/fortran_class.png" alt="eu e meus amigos" style="height: 300px; width:300px;"/>
+<img src="https://github.com/leojnguimaraes/leojnguimaraes.github.io/blob/master/future_of_fortran.png?raw=true" alt="estamos na vanguarda!" style="height: 100px; width:50;"/>
+
+- [Don't mess with Fortran](https://youtu.be/pJIxVS-wlHc?si=P8hp2UKwTRtDX8FZ)
+- [Fortran programming on GPU](https://youtu.be/Pq34HYI4Lsc?si=wM8wcL4RYtphG9xy)
+- [Modern Fortran: a contradiction in itself or a future-proof language?](https://youtu.be/Pq34HYI4Lsc?si=wM8wcL4RYtphG9xy)
+
 <!---
 - 👋 Hi, I’m @leojnguimaraes
 - 👀 I’m interested in ...
