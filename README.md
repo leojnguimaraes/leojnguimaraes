@@ -26,7 +26,7 @@ Trabalho na aplicação do Método dos Elementos Finitos a problemas das Engenha
 
 - [Don't mess with Fortran](https://youtu.be/pJIxVS-wlHc?si=P8hp2UKwTRtDX8FZ)
 - [Fortran programming on GPU](https://youtu.be/Pq34HYI4Lsc?si=wM8wcL4RYtphG9xy)
-- [Standard Fortran on GPU](https://youtu.be/Pq34HYI4Lsc?si=fkjHptNnX5WYRHGs)
+- [Standard Fortran on GPU](https://youtu.be/DrvI2gw3tnI?si=H9OblHVzL4r12jWT)
 - [Modern Fortran: a contradiction in itself or a future-proof language?](https://youtu.be/Pq34HYI4Lsc?si=wM8wcL4RYtphG9xy)
 
 <!---
